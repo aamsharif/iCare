@@ -1,5 +1,5 @@
 # iCare
-Family healthcare management app for Android.
+Family healthcare management app for Android
 
 Users can
   * manage family member’s diet charts and upcoming vaccination events
