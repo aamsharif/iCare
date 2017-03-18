@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ok_action_bar_button.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\ok_action_bar_button.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dashboard.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_diet_chart.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_view_diet_chart.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_diet_chart.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_view_diet_chart.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ok_action_bar_button.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\ok_action_bar_button.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_update_diet.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_update_diet.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_update_diet.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_update_diet.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_vaccination_chart.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_view_vaccination_chart.xml"
+    },
+    {
+        "merged": "I:\\iCare - preview version\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_view_vaccination_chart.xml",
+        "source": "I:\\iCare - preview version\\iCare\\app\\src\\main\\res\\menu\\menu_view_vaccination_chart.xml"
+    },
+    {
+        "merged": "G:\\SEIP-MAD\\iCare\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dashboard.xml",
+        "source": "G:\\SEIP-MAD\\iCare\\app\\src\\main\\res\\menu\\menu_dashboard.xml"
+    }
+]
